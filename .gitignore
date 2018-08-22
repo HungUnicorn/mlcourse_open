@@ -92,10 +92,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# Hide solutions
-*_solution.ipynb
-
-
 # Private folders
 *private/
 
@@ -110,3 +106,5 @@ ENV/
 # data
 data/faces/
 data/news_data/
+
+jupyter_russian/
